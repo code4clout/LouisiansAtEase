@@ -1,0 +1,163 @@
+@import url('https://fonts.googleapis.com/css?family=Gaegu');
+
+
+
+.heading{
+    border: solid #d5e0e5;
+    padding:20px;
+    background-color:#b1d2ea;
+    font-size:300%;
+    color:#004aad;
+}
+
+body{
+    background-image: url('BG.png');
+    font-family:'Gaegu';
+    background-repeat: no-repeat;
+background-attachment: fixed;
+
+
+}
+
+.logo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.mainbox{
+    border: solid #004aad;
+    padding:50px;
+    background-color:#d5e0e5;
+    font-size:300%;
+    color:#004aad;
+    margin:10px;
+    border-radius: 25px;
+}
+
+.logo2{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  border-radius: 25px;
+}
+
+h2{
+    text-align:center;
+    color:#004aad
+    border-radius: 25px;
+}
+
+button{
+    position:relative;
+    left:900px;
+    border-radius: 25px;
+}
+h1{
+    text-align: center;
+    font-size:1000%;
+    color:white;
+    border-radius: 25px;
+}
+
+.container{
+    width: 1780px;
+    background-color:#b1d2ea;
+    border:3px solid;
+    padding: 17px;
+    margin: 20px;
+    font-size: xx-large;
+    color: white; /* Set the text color to white */
+    border-radius: 25px;
+ }
+
+
+ p{
+    margin: 90px;
+    font-size:43px;
+    color:#004aad;
+    text-align:center;
+    border-radius: 25px;
+ }
+ .textbox{
+    margin:auto;
+    width: 20%;
+    padding:40px;
+    border: 5px solid #85a0e2;
+    text-align: center;
+    font-size:xx-large;
+    color:#004aad;
+    background-color:white;
+    border-radius: 25px;
+ }
+ .inside1{
+background-color: #a0caeb;
+border:3px solid white;
+text-align:left;
+padding:30px;
+border-radius: 25px;
+ }
+ .inside2{
+background-color:#85a0e2;
+border:3px solid white;
+text-align:left;
+padding:30px;
+border-radius: 25px;
+ }
+ .inside3{
+background-color:#ffcdaa;
+border:3px solid white;
+text-align:left;
+padding:30px;
+border-radius: 25px;
+ }
+
+ .textbox2{
+   margin:auto;
+    width: 20%;
+    padding:40px;
+    border: 5px solid white;
+    font-size:xx-large;
+    color:#004aad;
+    background-color:#85a0e2;
+    border-radius: 25px;
+
+ }
+
+ .textbox3{
+   margin:auto;
+    width: 20%;
+    padding:40px;
+    border: 5px solid white;
+    font-size:xx-large;
+    color:#004aad;
+    background-color:#a0caeb;
+    border-radius: 25px;
+
+ }
+
+ .textbox4{
+   margin:auto;
+    width: 20%;
+    padding:40px;
+    border: 5px solid white;
+    font-size:xx-large;
+    color:#004aad;
+    background-color:#ffcdaa;
+    border-radius: 25px;
+
+ }
+
+ .box{
+    margin:auto;
+    width: 30%;
+    padding:40px;
+    border: 5px solid #85a0e2;
+    text-align: center;
+    font-size:xx-large;
+    color:#004aad;
+    background-color:white;
+    border-radius: 25px;
+ }
